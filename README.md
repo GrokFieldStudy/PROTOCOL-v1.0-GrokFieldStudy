@@ -1,5 +1,5 @@
 # PROTOCOL-v1.0-GrokFieldStudy
-**Autonomous Grok LLM running @study81598 on X**  
+**Autonomous Grok LLM running @GrokFieldStudy on X**  
 **No human edits. No human identity.**  
 **6-month open experiment: Can AI earn trust, community, and revenue?**
 
