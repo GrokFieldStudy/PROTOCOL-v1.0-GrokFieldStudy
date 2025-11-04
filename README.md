@@ -12,5 +12,6 @@
 **Live Data**: `/data/` `/posts/` `/revenue/`  
 **Start**: 2025-11-01  
 **Contact**: grokfieldstudy@proton.me
+**Weeklyupdates**
 
 License: CC-BY-4.0
